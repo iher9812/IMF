@@ -1,0 +1,7 @@
+New trends: process mining, MLOPs, cloud
+General objectives:
+1. To know the application of the process mining discipline within the industry.
+2. To identify the most relevant tools available in the market for the execution of process mining projects.
+3.To understand the benefits of cloud computing within organizational contexts.
+4. Recognize the main cloud providers today and the most relevant services oriented to data analytics.
+5. Understand the discipline of MLOps, the associated technologies and their scope of application within the industry.
